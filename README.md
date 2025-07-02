@@ -221,3 +221,9 @@ stripe listen --forward-to localhost:3000/api/stripe
 ## 📜 License
 
 Licensed under the [MIT License](LICENSE).
+
+---
+
+## 🌐 Live Project
+
+[Visit QuickShow Live 🚀](https://quick-show-nine.vercel.app)
